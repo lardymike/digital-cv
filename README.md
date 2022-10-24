@@ -1,24 +1,24 @@
 # Michael (Mike) Wilson
 
-_IT professional with over 25 years experience currently focussing on DevOps based in the UK, most of that time working for a single employer, UK Centre for Ecology & Hydrology.  I have a wealth of IT expertise but am keenly aware there is always more to learn!  Specialist areas of knowledge include Linux system administration, configuration management, continuous integration/deployment, virtual environments, containerisation._
+_IT professional based in the UK, with over 25 years experience, currently focussing on DevOps.  I have a wealth of IT expertise but am keenly aware there is always more to learn!  Specialist areas of knowledge include Linux system administration, configuration management, continuous integration/deployment, virtual environments, containerisation._
 
-[Email](mailto:mike@birkrigg.com) / [GitHub](https://github.com/lardymike/) 
+[Email](mailto:mike@birkrigg.com) / [GitHub](https://github.com/lardymike/)
 
 ## Skills and technologies
 
-Linux system administration, Puppet, Ansible, Docker, Git, Kubernetes, Python, Shell scripting, VSphere administration.
+VSphere administration, Puppet, Ansible, Docker, Git, Kubernetes, Python, Shell scripting, Linux and Windows System administration.
 
 ## Employment history
 
 **Senior DevOps Engineer** @ [UKCEH](https://ceh.ac.uk/) _(Jan 2014 - Present)_ <br>
+- Management and maintenance of various servers including PostgreSQL, MySQL, MongoDB, GitLab, Confluence, Jira, Crowd, Kubernetes, Rancher and many others.
+- Led migration of our applications into Docker containers for easier deployment either in-house or externally.
 - Integrated configuration management using Puppet into our infrastructure to help ease the burden of managing the estate of around 100 virtual Linux servers, this included automated monitoring using Nagios.
+- Member of Web Governance Board, an organisation level committee setting policy and procedures for all developers working on internet related projects.
 - Managed the creation of 'infrastructure as code' using Terraform to enable rapid provisioning and deployment of new servers to VSphere Cluster or AWS, including creation of base images for all deployments using Packer
 - Implemented kubernetes clusters to enable developers to quickly deploy a variety of applications, managed using continuous deployment framework called Flux.
-- Management and maintenance of various servers including PostgreSQL, MySQL, MongoDB, GitLab, Confluence, Jira, Crowd, Kubernetes, Rancher and many others.
 - Provide support to developers across the organisation on usage of continuous integration techniques using GitLab.
-- Led migration of our applications into Docker containers for easier deployment either in-house or externally.
 - Led evaluation of suitable host for all company websites using Drupal.  This led to me eventually managing the migration of most sites (40+) to Pantheon using an automated pipeline I created using a combination of Python and Shell scripts.
-- Member of Web Governance Board, an organisation level committee setting policy and procedures for all developers working on internet related projects.
 - Management of all software licensing for Environmental Data Science group with a budget of around £60K
 - Line management responsibilities for several members of the Environmental Data Science group.
 
