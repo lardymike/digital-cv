@@ -1,6 +1,6 @@
 # Michael (Mike) Wilson
 
-_IT professional based in the UK, with over 25 years experience, currently focussing on DevOps.  I have a wealth of IT expertise but am keenly aware there is always more to learn!  Specialist areas of knowledge include Linux system administration, configuration management, continuous integration/deployment, virtual environments, containerisation._
+_IT professional based in the UK with over 25 years experience, currently focussing on DevOps.  I have a wealth of IT expertise but am keenly aware there is always more to learn!  Specialist areas of knowledge include Linux system administration, configuration management, continuous integration/deployment, virtual environments, containerisation._
 
 [Email](mailto:mike@birkrigg.com) / [GitHub](https://github.com/lardymike/)
 
