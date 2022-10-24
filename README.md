@@ -2,7 +2,7 @@
 
 _IT professional with over 25 years experience currently focussing on DevOps based in the UK, most of that time working for a single employer, UK Centre for Ecology & Hydrology.  I have a wealth of IT expertise but am keenly aware there is always more to learn!  Specialist areas of knowledge include Linux system administration, configuration management, continuous integration/deployment, virtual environments, containerisation._
 
-[Email](mailto:mike@birkrigg.com)
+[Email](mailto:mike@birkrigg.com) / [GitHub](https://github.com/lardymike/) 
 
 ## Skills and technologies
 
