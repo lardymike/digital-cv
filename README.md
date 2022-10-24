@@ -22,7 +22,7 @@ VSphere administration, Puppet, Ansible, Docker, Git, Kubernetes, Python, Shell 
 - Management of all software licensing for Environmental Data Science group with a budget of around £60K
 - Line management responsibilities for several members of the Environmental Data Science group.
 
-**Senior Software Developer/Infrastructure support** @ [UKCEH](https://ceh.ac.uk/) _(Jan 2006 - Dec 2013)_ <br>
+**Senior Software Developer/Infrastructure support** @ [UKCEH](https://ceh.ac.uk/) _(Nov 2006 - Dec 2013)_ <br>
 - Managed implementation of internal source code repositories for all development staff, firstly using Subversion, then subsequently managing the transition to Git, this included the creation of an internal GitLab service and the creation and management of an external GitHub organisation.
 - Implemented Atlassian products into the group and wider organisation, namely, Confluence, Jira and Crowd, for wiki, issue management and integrated authentication respectively.
 - Created repeatable Windows and Linux development environments for developers using Vagrant and VMWare Workstation.
