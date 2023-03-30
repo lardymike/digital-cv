@@ -36,7 +36,7 @@ VSphere administration, Puppet, Ansible, Docker, Git, Kubernetes, Python, Shell 
 - Installation and maintenance of Windows IIS servers.
 - Worked with Chief Information Security officer to disseminate Open Web Application Security Project (OWASP) standards and encourage adoption of secure development practice.
 
-**Higher Executive Officer - IT User Support**  @ [UKCEH](https://ceh.ac.uk/) _(Apr 1995 - Jan 2001)_ <br>
+**Higher Executive Officer - IT User Support**  @ [UKCEH](https://ceh.ac.uk/) _(Apr 1993 - Jan 2001)_ <br>
 - Early adopter of burgeoning Internet technologies developing one of the first web based data visualisation portals for environmental data using CGI.
 - Supervision of students developing custom Chemistry software written in Visual Basic.
 - Installation and maintenance of Windows NT and Netware servers.
